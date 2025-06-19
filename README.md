@@ -17,6 +17,6 @@ This is a modern, responsive personal portfolio website built with HTML, CSS, an
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/b-sandrine/alu-portfolio_b-sandrine
-   cd <alu-portfolio_b-sandrine>
+   cd alu-portfolio_b-sandrine
    ```
 2. **Open `index.html` in your browser.**
